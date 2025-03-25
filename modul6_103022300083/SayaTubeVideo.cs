@@ -12,9 +12,11 @@ namespace modul6_103022300083
         private int id;
         private string title;
         private int playCount;
+        public int getPlayCount() => playCount;
+        public string getTitle() => title;
 
         public SayaTubeVideo(string title) {
-            Debug.Assert(!string.IsNullOrEmpty(title) && title.Length <== 100, "Judul video tidak boleh null dan maksimal 100 karakter");
+            Debug.Assert(!string.IsNullOrEmpty(title) && title.Length <= 100, "Judul video tidak boleh null dan maksimal 100 karakter");
             Random r = new Random();
             this.id = r.Next(10000, 99999);
             this.title = title;
@@ -36,9 +38,10 @@ namespace modul6_103022300083
             }
         }
 
-        public void PrintVideoDeatils() {
+        public void PrintVideoDetails() {
             Console.WriteLine($"Video ID: {id}");
-            Console.WriteLine()
+            Console.WriteLine($"Title: {title}");
+            Console.WriteLine($"Play Count: {playCount}");
         }
     }
 }

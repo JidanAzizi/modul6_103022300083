@@ -1,0 +1,15 @@
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\bin\Debug\net8.0\modul6_103022300083.exe
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\bin\Debug\net8.0\modul6_103022300083.deps.json
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\bin\Debug\net8.0\modul6_103022300083.runtimeconfig.json
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\bin\Debug\net8.0\modul6_103022300083.dll
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\bin\Debug\net8.0\modul6_103022300083.pdb
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.AssemblyInfoInputs.cache
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.AssemblyInfo.cs
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.csproj.CoreCompileInputs.cache
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.sourcelink.json
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.dll
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\refint\modul6_103022300083.dll
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.pdb
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\modul6_103022300083.genruntimeconfig.cache
+C:\Users\Idan\source\repos\modul6_103022300083\modul6_103022300083\obj\Debug\net8.0\ref\modul6_103022300083.dll
